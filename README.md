@@ -38,5 +38,3 @@ This simulator models how operating systems allocate CPU time to processes and h
   - CSV output for plotting
 
 ---
-
-## 🛠 Architecture
